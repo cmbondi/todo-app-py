@@ -1,6 +1,5 @@
 FILEPATH = "files/todos.txt"
 
-
 def get_todos(filepath=FILEPATH):
     """ Read text file and return list of
     to-dp items.
